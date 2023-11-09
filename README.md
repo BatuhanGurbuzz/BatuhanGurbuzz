@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Gurbuz</h1>
 <h3 align="center">A passionate Game and AI developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Unreal Engine**
+- 🔭 I’m currently working on **Django**
 
 - 💬 Ask me about **C++, Python**
 
