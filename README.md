@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python**, C#**
 
 - 📫 How to reach me **batuhang002@gmail.com**
 
