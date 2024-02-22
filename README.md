@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan Gurbuz</h1>
-<h3 align="center">A passionate Game and AI developer from Turkey</h3>
+<h3 align="center">A passionate Web and Data Analyst developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Django**
 
